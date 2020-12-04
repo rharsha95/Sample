@@ -1,3 +1,4 @@
+// Blueprint to create the Bird Class
 class Bird extends BaseClass {
   constructor(x,y){
     super(x,y,50,50);
